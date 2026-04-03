@@ -62,17 +62,13 @@
 
 <h3 align="center" style="color: #66CCFF;">⚙️ Backend & Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,firebase&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb&perline=10&theme=dark" />
 </p>
 
 <h3 align="center" style="color: #66CCFF;">🔧 Tools & IDEs</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,postman&perline=10&theme=dark" />
 </p>
-
-
-
-
 ---
 
  
