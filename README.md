@@ -17,7 +17,7 @@
 </p>
 </div>
 <div align="center">
-  <img src="./assets/profile.gif" alt="Terminal Introduction" width="650"/>
+  <img src="./assets/profileAnimatedGif.gif" alt="Terminal Introduction" width="650"/>
 </div>
 
 
@@ -50,9 +50,28 @@
  
 <img src="./assets/section-tech.svg" width="180"/>
 
+<h3 align="center" style="color: #66CCFF;">🌐 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,html,css,bootstrap,firebase,mysql,php,androidstudio,kotlin,selenium&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,php,kotlin,sql&perline=10&theme=dark" />
 </p>
+
+<h3 align="center" style="color: #66CCFF;">🎨 Frontend & Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,figma&perline=10&theme=dark" />
+</p>
+
+<h3 align="center" style="color: #66CCFF;">⚙️ Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,firebase&perline=10&theme=dark" />
+</p>
+
+<h3 align="center" style="color: #66CCFF;">🔧 Tools & IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,postman&perline=10&theme=dark" />
+</p>
+
+
+
 
 ---
 
