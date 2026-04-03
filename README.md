@@ -5,14 +5,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9D72E9&center=true&vCenter=true&width=600&lines=HI+THERE!;GLAD+YOU'RE+HERE+✨; SCROLL+DOWN+TO+KNOW;MORE+ABOUT+ME!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9D72E9&center=true&vCenter=true&width=600&lines=HI+THERE!;GLAD+YOU'RE+HERE+✨;SCROLL+DOWN+TO+KNOW;MORE+ABOUT+ME!" alt="Typing Animation" />
 </p>
 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pooja-V4&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile views" />
   <a href="https://github.com/Pooja-V4?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pooja-V4?label=Followers&style=flat-square&color=f093fb&labelColor=1a1b26 alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Pooja-V4?label=Followers&style=flat-square&color=9D72E9&labelColor=1a1b26" alt="GitHub Followers">
   </a>
 </p>
 </div>
