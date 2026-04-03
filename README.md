@@ -69,30 +69,39 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,postman&perline=10&theme=dark" />
 </p>
----
 
+---
  
 <img src="./assets/section-FP.png" width="180"/>
 
 
 <div align="center">
 
-<a href="https://github.com/Pooja-V4/TxtMagic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pooja-V4&repo=TxtMagic&theme=tokyonight&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&border_color=8A2BE2" />
-</a>
+<p align="center">
+  <a href="https://github.com/Pooja-V4/TxtMagic">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pooja-v4&repo=TxtMagic&theme=tokyonight" alt="TxtMagic Python Package" />
+  </a>
+  <a href="https://github.com/Pooja-V4/PlayNext">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pooja-v4&repo=PlayNext&theme=tokyonight" alt="PlayNext Android App" />
+  </a>
+</p>
 
-<a href="https://github.com/Pooja-V4/PlayNext">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pooja-V4&repo=PlayNext&theme=tokyonight&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&border_color=8A2BE2" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/Pooja-V4/my-frontend-projects">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pooja-v4&repo=my-frontend-projects&theme=tokyonight" alt="Frontend Portfolio" />
+  </a>
+  <a href="https://github.com/Pooja-V4/fullstack-recipe-explorer">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=pooja-v4&repo=fullstack-recipe-explorer&theme=tokyonight" alt="Fullstack Recipe Explorer" />
+  </a>
+</p>
 </div>
 
 ---
 
-<img src="./assets/section-github.png" width="180"/> 
+<img src="./assets/section-github.png" width="180" /> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pooja-V4&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&border_color=8A2BE2" height="180em"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pooja-v4&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pooja-v4&layout=compact&theme=tokyonight)
 
 ---
 
