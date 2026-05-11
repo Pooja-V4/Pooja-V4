@@ -5,6 +5,7 @@
 
 
 <p align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9D72E9&center=true&vCenter=true&width=600&lines=HI+THERE!;GLAD+YOU'RE+HERE+✨;SCROLL+DOWN+TO+KNOW;MORE+ABOUT+ME!" alt="Typing Animation" />
 </p>
 
@@ -17,7 +18,7 @@
 </p>
 </div>
 <div align="center">
-  <img src="./assets/profileAnimatedGif.gif" alt="Terminal Introduction" width="650"/>
+  <img width="480" height="274" alt="Woman Coding GIF by Pluralsight" src="https://github.com/user-attachments/assets/62688ccf-8365-42bb-8543-ea31bfe3a200" />
 </div>
 
 
@@ -33,13 +34,15 @@
     <td width="60%" style="padding: 30px; border: none; vertical-align: top;">
       
 
-- 🌱**Learning:** Building expertise in Java Full-Stack Development with Spring Boot and React,
+- 🌱**Learning:** Contributing to Open Source through GSSoC'26
 
 - 👀 Interested in Open Source and Web Development
 
 - 💞️ Looking to collaborate on react js, Java, APIs, and Web Apps
 
 - 📫 Reach me: poojavelm@gmail.com
+
+- ⚡ Fun Fact: I trust the process… unless the process throws runtime errors 😄 
 
 
  </tr>
